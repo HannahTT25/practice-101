@@ -2,6 +2,7 @@
 practicing everyday to improve my skills day by day 30 mins a day
 
 To-Do List:
+
 Interactive Quiz: Create a quiz application with multiple-choice questions. Use HTML to structure the quiz, CSS for styling, and JavaScript to handle the quiz logic.
 
 Recipe Finder: Build a simple recipe finder where users can search for recipes based on ingredients or keywords. Utilize an API like Spoonacular or Edamam to fetch recipe data and display it using HTML, CSS, and JavaScript.
